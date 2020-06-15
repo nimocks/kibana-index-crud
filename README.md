@@ -8,6 +8,6 @@ Developing on Kibana version 7.7.1
 
 ![Image of plugin page](https://raw.githubusercontent.com/aaron-nimocks/kibana-index-crud/master/images/crud.png)
 
-### CSS Editor
+### Add Record Modal
 
 ![Image of Add Modal](https://raw.githubusercontent.com/aaron-nimocks/kibana-index-crud/master/images/addrecord.png)
